@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stuart  stuart@gitstudent.training  @stumazing
 
 # THANKS
 
